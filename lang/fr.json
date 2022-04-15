@@ -318,11 +318,6 @@
       "fatigue": "fatigue"
     }
   },
-  "FALLOUT.FOOD": "Alimentation",
-  "FALLOUT.BEVERAGE": "Boissons",
-  "FALLOUT.CHEM": "Chem",
-  "FALLOUT.OTHER": "Other"
-}
   "FALLOUT.FOOD": "Nourriture",
   "FALLOUT.BEVERAGE": "Boissons",
   "FALLOUT.CHEM": "Chem",
